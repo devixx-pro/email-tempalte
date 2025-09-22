@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\EmailController;
 use App\Http\Controllers\LeadImportController;
 use App\Http\Controllers\SendController;
 use App\Mail\BulkLeadMail;
@@ -75,3 +76,7 @@ Route::get('/preview-bulk', function () {
     $lead = Lead::first();
     return new BulkLeadMail('Preview Subject', '<p>Preview body</p>', $lead);
 });
+
+
+Route::get('/send-email', [EmailController::class, 'index']);
+Route::post('/send-email', [EmailController::class, 'sendTestEmail'])->name('send.test.email');
