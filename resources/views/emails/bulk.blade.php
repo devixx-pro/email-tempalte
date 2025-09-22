@@ -1581,8 +1581,8 @@
             <header>
                 <!-- Header -->
                 <div class="top-bar">
-                    <img src="image/emrald-logo.jpeg" alt="Logo">
-                    <p> <span><img src="image/location.png" alt=""></span> 300 Airborne Parkway, Suite 210,
+                    <img src="{{asset('image/emrald-logo.jpeg')}}" alt="Logo">
+                    <p> <span><img src="{{asset('image/location.png')}}" alt=""></span> 300 Airborne Parkway, Suite 210,
                         Cheektowaga, NY 14225
                     </p>
                 </div>
@@ -1617,7 +1617,7 @@
             <!-- i hope section -->
             <div class="highlight-box hope">
                 <div class="banner_section">
-                    <img src="image/hope.png" alt="">
+                    <img src="{{asset('image/hope.png')}}" alt="">
                     <p>
                         <b>I hope this message finds you ready for change.</b><br>
                         At <span>Emerald Wealth Services,</span> we help agents move past setbacks and finally thrive.
@@ -1641,7 +1641,7 @@
 
                 <div class="content">
                     <div class="agentss">
-                        <img src="image/fasdfasfasdf.png" alt="Agent">
+                        <img src="{{asset('image/fasdfasfasdf.png')}}" alt="Agent">
                     </div>
 
                     <div class="text">
@@ -1674,7 +1674,7 @@
                                 Americans lack adequate life insurance coverage.</h2>
                         </div>
                         <div>
-                            <img src="image/asdfsfsdfasd.png" alt="">
+                            <img src="{{asset('image/asdfsfsdfasd.png')}}" alt="">
                         </div>
                     </div>
                 </div>
@@ -1695,7 +1695,7 @@
                             <strong>Six figures</strong> built through discipline, mentorship, and the right agency
                             support.
                         </p>
-                        <img src="image/fasdfljadsflj.png" alt="Income Icon">
+                        <img src="{{asset('image/fasdfljadsflj.png')}}" alt="Income Icon">
                     </div>
 
                     <!-- Card 2 -->
@@ -1704,7 +1704,7 @@
                         <p><strong>Life insurance</strong> is the greatest <strong>wealth</strong> transfer asset.
                             Every policy protects <strong>families</strong> and preserves legacies.
                             Recession Proof Career</p>
-                        <img src="image/adkaslfjasdklf.png" alt="Wealth Icon">
+                        <img src="{{asset('image/adkaslfjasdklf.png')}}" alt="Wealth Icon">
                     </div>
                 </div>
 
@@ -1717,7 +1717,7 @@
                             Unlike other fields that collapse in downturns, life insurance is essential not optional.
                             This gives you a <strong>stable career</strong> path with lasting income security.</p>
                     </div>
-                    <img src="image/flasdkfjadsklfj.png" alt="Career Icon">
+                    <img src="{{asset('image/flasdkfjadsklfj.png')}}" alt="Career Icon">
                 </div>
             </div>
         </section>
@@ -1783,7 +1783,7 @@
                             routines.</p>
                     </div>
                     <div class="leader-image">
-                        <img src="image/kizzy.png" alt="Kizzy Bowen">
+                        <img src="{{asset('image/kizzy.png')}}" alt="Kizzy Bowen">
                     </div>
                 </div>
 
@@ -1796,7 +1796,7 @@
                             training.</p>
                     </div>
                     <div class="leader-image">
-                        <img src="image/mahad.png" alt="Mahad Mohamed">
+                        <img src="{{asset('image/mahad.png')}}" alt="Mahad Mohamed">
                     </div>
                 </div>
 
@@ -1808,7 +1808,7 @@
                             Influences 140,000+ agents, helping them achieve six-figure incomes within 12 months.</p>
                     </div>
                     <div class="leader-image">
-                        <img src="image/kody.png" alt="Cody Askins">
+                        <img src="{{asset('image/kody.png')}}" alt="Cody Askins">
                     </div>
                 </div>
 
@@ -1821,7 +1821,7 @@
                             strategies.</p>
                     </div>
                     <div class="leader-image">
-                        <img src="image/sanajy.png" alt="Dr. Sanjay Tolani">
+                        <img src="{{asset('image/sanajy.png')}}" alt="Dr. Sanjay Tolani">
                     </div>
                 </div>
             </div>
@@ -1847,7 +1847,7 @@
 
                 <!-- Right image -->
                 <div class="testimonial-image">
-                    <img src="image/asdkfhasdkfh.png" alt="Emily">
+                    <img src="{{asset('image/asdkfhasdkfh.png')}}" alt="Emily">
                 </div>
             </div>
         </div>
@@ -1874,7 +1874,7 @@
                 <p class="subheading">Your success isn’t a question of IF — it’s a question of WHEN</p>
 
                 <div class="flex-colum">
-                    <img src="image/sdjflkjsdlf.png " alt="Person" class="elite-image">
+                    <img src="{{asset('image/sdjflkjsdlf.png')}}" alt="Person" class="elite-image">
 
                     <div>
                         <div class="elite-buttons">
@@ -1895,11 +1895,11 @@
             <div>
                 <h2>Ready To Transform Your <span>Career?</span></h2>
                 <ul class="details">
-                    <li> <span><img src="image/aasdfasdf.png" alt=""></span> <b>Website:</b>
+                    <li> <span><img src="{{asset('image/aasdfasdf.png')}}" alt=""></span> <b>Website:</b>
                         www.emeraldwealthservices.com</li>
-                    <li> <span><img src="image/afasdfsd.png" alt=""></span> <b>Email:</b>
+                    <li> <span><img src="{{asset('image/afasdfsd.png')}}" alt=""></span> <b>Email:</b>
                         info@emeraldwealthservices.com</li>
-                    <li> <span><img src="image/asdjasldjas.png" alt=""></span> <b> Phone:</b> +1 (800)
+                    <li> <span><img src="{{asset('image/asdjasldjas.png')}}" alt=""></span> <b> Phone:</b> +1 (800)
                         515-6707</li>
                 </ul>
                 <hr>
@@ -1908,14 +1908,14 @@
                 <div>
                     <h3>Stay <span>Connected</span></h3>
                     <ul>
-                        <li><img src="image/dasdask.png" alt=""> </li>
-                        <li> <img src="image/dasdlasjl.png" alt=""> </li>
-                        <li><img src="image/jfaslfjal.png" alt=""> </li>
-                        <li><img src="image/asjdlasjd.png" alt=""></li>
+                        <li><img src="{{asset('image/dasdask.png')}}" alt=""> </li>
+                        <li> <img src="{{asset('image/dasdlasjl.png')}}" alt=""> </li>
+                        <li><img src="{{asset('image/jfaslfjal.png')}}" alt=""> </li>
+                        <li><img src="{{asset('image/asjdlasjd.png')}}" alt=""></li>
                     </ul>
                 </div>
                 <div>
-                    <img src="image/adasjdl.png" alt="">
+                    <img src="{{asset('image/adasjdl.png')}}" alt="">
                 </div>
             </div>
 
