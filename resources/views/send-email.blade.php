@@ -13,8 +13,22 @@
             <div class="alert alert-success mt-3">{{ session('success') }}</div>
         @endif
 
+        @if ($errors->any())
+            <div class="alert alert-danger mt-3">
+                <ul class="mb-0">
+                    @foreach ($errors->all() as $error)
+                        <li>{{ $error }}</li>
+                    @endforeach
+                </ul>
+            </div>
+        @endif
+
         <form method="POST" action="{{ route('send.test.email') }}">
             @csrf
+            <div class="mb-3">
+                <label for="email" class="form-label">Recipient Email</label>
+                <input type="email" name="email" id="email" class="form-control" placeholder="Enter recipient email" required>
+            </div>
             <button type="submit" class="btn btn-primary">Send Test Email</button>
         </form>
     </div>

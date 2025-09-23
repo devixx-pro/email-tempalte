@@ -80,3 +80,5 @@ Route::get('/preview-bulk', function () {
 
 Route::get('/send-email', [EmailController::class, 'index']);
 Route::post('/send-email', [EmailController::class, 'sendTestEmail'])->name('send.test.email');
+
+Route::get('/send-preview', [EmailController::class, 'preview']);

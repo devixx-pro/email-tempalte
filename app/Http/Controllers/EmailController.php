@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Mail\TestEmail;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 
 class EmailController extends Controller
@@ -12,10 +13,22 @@ class EmailController extends Controller
         return view('send-email'); // simple page with button
     }
 
-    public function sendTestEmail()
+    public function sendTestEmail(Request $request)
     {
-        Mail::to('diwakar.orion@gmail.com')->send(new TestEmail());
+        // validate input
+        $request->validate([
+            'email' => 'required|email',
+        ]);
 
-        return back()->with('success', 'Test email sent successfully!');
+        $recipient = $request->email;
+
+        Mail::to($recipient)->send(new \App\Mail\TestEmail());
+
+        return back()->with('success', "Test email sent successfully to $recipient!");
+    }
+
+    public function preview()
+    {
+        return view('emails.testemail');
     }
 }
