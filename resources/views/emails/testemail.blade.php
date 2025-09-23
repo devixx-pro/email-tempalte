@@ -474,15 +474,15 @@
                                 <img src="https://imagetest.devixx.pro/images/sdjflkjsdlf.png" alt=""
                                     style="margin-top:0; width: 30%;margin: 20px auto;max-width: 100%;border: 0px solid #000;padding: 0px;border-radius: 0px;box-shadow: 5px 5px 0px #000;">
                                 <div>
-                                    <button
-                                        style='background: #D3FADE;color: #000;border: 2px solid #000;box-shadow: 2px 2px 0px #000;font-family: "AR One Sans", sans-serif;width: 81%;display: inline-block;padding: 12px 22px;margin: 10px;font-size: 14px;font-weight: bold;border: 2px solid #000;border-radius: 4px;cursor: pointer;transition: 0.3s;'>
+                                    <a href="#"
+                                        style='text-decoration:none; background: #D3FADE;color: #000;border: 2px solid #000;box-shadow: 2px 2px 0px #000;font-family: "AR One Sans", sans-serif;width: 81%;display: inline-block;padding: 12px 22px;margin: 10px;font-size: 14px;font-weight: bold;border: 2px solid #000;border-radius: 4px;cursor: pointer;transition: 0.3s;'>
                                         APPLY TO JOIN EMERALD NOW
-                                    </button>
+</a>
 
-                                    <button
-                                        style='background: #fff;color: #000;border: 2px solid #000;box-shadow: 2px 2px 0px #000;font-family: "AR One Sans", sans-serif;width: 81%;margin: 10px auto;display: inline-block;padding: 12px 22px;margin: 10px;font-size: 14px;font-weight: bold;border: 2px solid #000;border-radius: 4px;cursor: pointer;transition: 0.3s;'>
+                                    <a href="#"
+                                        style='text-decoration:none; background: #fff;color: #000;border: 2px solid #000;box-shadow: 2px 2px 0px #000;font-family: "AR One Sans", sans-serif;width: 81%;margin: 10px auto;display: inline-block;padding: 12px 22px;margin: 10px;font-size: 14px;font-weight: bold;border: 2px solid #000;border-radius: 4px;cursor: pointer;transition: 0.3s;'>
                                         START YOUR APPLICATION
-                                    </button>
+</a>
                                     <p
                                         style="margin-top: 0px;padding: 10px;background: #dcdaf5;display: inline-block;border-radius: 5px;font-size: 14px;color: #333;margin-top: 35px;">
                                         The families who need you can’t afford to wait.
