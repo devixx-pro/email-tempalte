@@ -159,14 +159,14 @@
 
                             <tr style="text-align: center; padding:30px 29px 20px 20px !important;display: flex;margin: 0 auto; background: #d3fade; padding-bottom: 31px !important;gap: 10px;">
                                 <td
-                                    style="background: #B9FFD5;border: 2px solid #111613;padding: 20px;flex: 1 1 calc(50% - 20px);position: relative;">
-                                    <span>
+                                    style=" margin:0 5px;  background: #B9FFD5;border: 2px solid #111613;padding: 20px;flex: 1 1 calc(50% - 20px);position: relative;">
+                                    <span style="">
                                         <p
-                                            style='background: #d7c9f5;display: inline-block;padding: 5px 8px;font-size: 20px;margin-bottom: 15px;text-transform: uppercase;font-family: "Staatliches", sans-serif;width: 50%;margin-top: 0;font-weight: 500;line-height: 1;margin-left: 0;display: block;text-align: left;'>
+                                            style='background: #d7c9f5;display: inline-block;padding: 5px 8px;font-size: 20px;margin-bottom: 15px;text-transform: uppercase;font-family: "Staatliches", sans-serif;width: 50%;margin-top: 0;font-weight: 600;line-height: 1;margin-left: 0;display: block;text-align: left;'>
                                             SIX-FIGURE INCOME
                                             POTENTIAL</p>
                                         <img src="https://imagetest.devixx.pro/images/fasdfljadsflj.png" alt=""
-                                            style="position: absolute;top: 15px;right: 15px;width: 68px;height: 68px;object-fit: contain;">
+                                           style="width:68px;height:68px;object-fit:contain;margin-left: auto !important;float: right;margin-top: -80px;">
                                     </span>
 
                                     <p style="font-size: 15px;line-height: 1.6;font-weight: 500;text-align: left;">Your
@@ -177,14 +177,14 @@
 
 
 
-                                <td
-                                    style="background: #B9FFD5;border: 2px solid #111613;padding: 20px;flex: 1 1 calc(50% - 20px);position: relative;">
+                                <td 
+                                    style="margin:0 5px; background: #B9FFD5;border: 2px solid #111613;padding: 20px;flex: 1 1 calc(50% - 20px);position: relative;">
                                     <span>
                                         <p
-                                            style='background: #d7c9f5;display: inline-block;padding: 5px 8px;font-size: 20px;margin-bottom: 15px;text-transform: uppercase;font-family: "Staatliches", sans-serif;width: 50%;margin-top: 0;font-weight: 500;line-height: 1;margin-left: 0;display: block;text-align: left;'>
+                                            style='background: #d7c9f5;display: inline-block;padding: 5px 8px;font-size: 20px;margin-bottom: 15px;text-transform: uppercase;font-family: "Staatliches", sans-serif;width: 50%;margin-top: 0;font-weight: 600;line-height: 1;margin-left: 0;display: block;text-align: left;'>
                                             BECOME A WEALTH PROTECTOR</p>
                                         <img src="https://imagetest.devixx.pro/images/adkaslfjasdklf.png" alt=""
-                                            style="position: absolute;top: 15px;right: 15px;width: 68px;height: 68px;object-fit: contain;">
+                                            style="width:68px;height:68px;object-fit:contain;margin-left: auto !important;float: right;margin-top: -80px;">
                                     </span>
 
                                     <p style="font-size: 15px;line-height: 1.6;font-weight: 500;text-align: left;"><b>Life
@@ -199,7 +199,7 @@
                                     style="background: #B9FFD5;border: 2px solid #111613;padding: 20px;flex: 1 1 calc(50% - 20px);position: relative;display: flex;align-items: center;">
                                     <span>
                                         <p
-                                            style='background: #d7c9f5;display: inline-block;padding: 5px 8px;font-size: 20px;margin-bottom: 15px;text-transform: uppercase;font-family: "Staatliches", sans-serif;width: 30%;margin-top: 0;font-weight: 500;line-height: 1;margin-left: 0;display: block;text-align: left;'>
+                                            style='background: #d7c9f5;display: inline-block;padding: 5px 8px;font-size: 20px;margin-bottom: 15px;text-transform: uppercase;font-family: "Staatliches", sans-serif;width: 30%;margin-top: 0;font-weight: 600;line-height: 1;margin-left: 0;display: block;text-align: left;'>
                                             RECESSION PROOF CAREER </p>
                                         <p style="font-size: 15px;line-height: 1.6;font-weight: 500;text-align: left;">The
                                             insurance industry remains strong in any economy because <b>families</b> always need
@@ -208,7 +208,7 @@
                                             income security.</p>
                                     </span>
 
-                                    <img src="https://imagetest.devixx.pro/images/flasdkfjadsklfj.png" alt="">
+                                    <img src="https://imagetest.devixx.pro/images/flasdkfjadsklfj.png" alt="" style="object-fit: contain;">
                                 </td>
                             </tr>
                         </td>
@@ -233,8 +233,8 @@
                             style="max-width: 88%;margin: 0 auto 40px;border: 2px solid #000000;padding: 20px;background: #B9FFD5;">
                             <h3
                                 style='font-size: 28px;font-weight: bold;margin-bottom: 15px;display: inline-block;padding-bottom: 3px;font-family: "Staatliches", sans-serif;position: relative;display: flex;align-items: end;line-height: 0.7;gap: 5px;'>
-                                PROTECTING YOUR <span style="color: #0a9447;">HUMAN CAPITAL</span>
-                                <hr style="width: 162px;margin-bottom: 0;">
+                                PROTECTING YOUR <span style="color: #0a9447;margin-left:5px;">HUMAN CAPITAL</span>
+                                <hr style="width: 162px;margin-bottom: 0;    background: #0a9447;">
                             </h3>
                             <p>Human capital is the present value of your future earnings.</p>
 
@@ -270,7 +270,7 @@
                             <div
                                 style="margin-bottom: 25px;display: block;padding: 31px 0;background: #e9f0ff;border-radius: 5px;">
                                 <span
-                                    style="float: left;margin-left: 10px; background: #1F283D;color: #fff;font-weight: bold;width: 36px;height: 36px;display: flex;align-items: center;justify-content: center;border-radius: 0px;margin-right: 12px;font-size: 22px;position: relative;">
+                                    style="justify-content: center; float: left;margin-left: 10px; background: #1F283D;color: #fff;font-weight: bold;width: 36px;height: 36px;display: flex;align-items: center;justify-content: center;border-radius: 0px;margin-right: 12px;font-size: 22px;position: relative;">
                                     1
                                 </span>
                                 <hr
@@ -285,7 +285,7 @@
                             <div
                                 style="margin-bottom: 25px;display: block;padding: 31px 0;background: #e9f0ff;border-radius: 5px;">
                                 <span
-                                    style="float: left;margin-left: 10px; background: #1F283D;color: #fff;font-weight: bold;width: 36px;height: 36px;display: flex;align-items: center;justify-content: center;border-radius: 0px;margin-right: 12px;font-size: 22px;position: relative;">
+                                    style=" justify-content: center; float: left;margin-left: 10px; background: #1F283D;color: #fff;font-weight: bold;width: 36px;height: 36px;display: flex;align-items: center;justify-content: center;border-radius: 0px;margin-right: 12px;font-size: 22px;position: relative;">
                                     2
                                 </span>
                                 <hr
@@ -301,7 +301,7 @@
                             <div
                                 style="margin-bottom: 25px;display: block;padding: 31px 0;background: #e9f0ff;border-radius: 5px;">
                                 <span
-                                    style="float: left;margin-left: 10px; background: #1F283D;color: #fff;font-weight: bold;width: 36px;height: 36px;display: flex;align-items: center;justify-content: center;border-radius: 0px;margin-right: 12px;font-size: 22px;position: relative;">
+                                    style="justify-content: center; float: left;margin-left: 10px; background: #1F283D;color: #fff;font-weight: bold;width: 36px;height: 36px;display: flex;align-items: center;justify-content: center;border-radius: 0px;margin-right: 12px;font-size: 22px;position: relative;">
                                     3
                                 </span>
                                 <hr
@@ -472,7 +472,7 @@
 
                             <div style="display: flex;align-items: center;">
                                 <img src="https://imagetest.devixx.pro/images/sdjflkjsdlf.png" alt=""
-                                    style="width: 90%;margin: 20px auto;max-width: 100%;border: 0px solid #000;padding: 0px;border-radius: 0px;box-shadow: 5px 5px 0px #000;">
+                                    style="width: 36%;margin: 20px auto;max-width: 100%;border: 0px solid #000;padding: 0px;border-radius: 0px;box-shadow: 5px 5px 0px #000;">
                                 <div>
                                     <button
                                         style='background: #D3FADE;color: #000;border: 2px solid #000;box-shadow: 2px 2px 0px #000;font-family: "AR One Sans", sans-serif;width: 81%;display: inline-block;padding: 12px 22px;margin: 10px;font-size: 14px;font-weight: bold;border: 2px solid #000;border-radius: 4px;cursor: pointer;transition: 0.3s;'>
@@ -502,7 +502,7 @@
                             <ul
                                 style="list-style: none;padding: 0;padding-bottom: 38px;border-bottom: 2px solid #000;width: fit-content;">
                                 <li
-                                    style="margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;">
+                                    style="margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;margin-left:0;">
                                     <span
                                         style="width: 30px;height: 30px;background: #fff;display: flex;justify-content: center;align-items: center;box-shadow: 3px 3px 0px #006838;"><img
                                             src="https://imagetest.devixx.pro/images/aasdfasdf.png"
@@ -511,7 +511,7 @@
                                     www.emeraldwealthservices.com
                                 </li>
                                 <li
-                                    style="margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;">
+                                    style="margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;margin-left:0;">
                                     <span
                                         style="width: 30px;height: 30px;background: #fff;display: flex;justify-content: center;align-items: center;box-shadow: 3px 3px 0px #006838;"><img
                                             src="https://imagetest.devixx.pro/images/afasdfsd.png"
@@ -520,7 +520,7 @@
                                     info@emeraldwealthservices.com
                                 </li>
                                 <li
-                                    style="margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;">
+                                    style="margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;margin-left:0;">
                                     <span
                                         style="width: 30px;height: 30px;background: #fff;display: flex;justify-content: center;align-items: center;box-shadow: 3px 3px 0px #006838;"><img
                                             src="https://imagetest.devixx.pro/images/asdjasldjas.png"
@@ -561,8 +561,8 @@
                                 this because
                                 you expressed interest in career and income opportunities.</p>
                             <a href="#"
-                                style="margin: 0;font-size: 18px;color: #fff;font-weight: 500;text-decoration: underline;display: flex;justify-content: center;gap: 5px;padding-bottom: 5px !important;">Unsubscribe
-                                <span>|</span> Update Preferences</a>
+                               style="margin:0;font-size:18px;color:#fff;font-weight:500;text-decoration:underline;display:flex;padding-bottom:5px!important;justify-content: center;">Unsubscribe
+                                <span style="margin: 0 5px;">|</span> Update Preferences</a>
                         </td>
                     </tr>
                 </table>
