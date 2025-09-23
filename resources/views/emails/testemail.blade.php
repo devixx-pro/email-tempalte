@@ -83,7 +83,7 @@
                         <td
                             style="background: #fff; padding: 20px; max-width: 100%;display: block; box-shadow: 10px 10px 0px #053e05;">
                             <img src="https://imagetest.devixx.pro/images/hope.png" alt="" style="width: 100%;">
-                            <p style="text-align: left;">
+                            <p style="text-align: left;    font-size: 16px;">
                                 <b> I hope this message finds you ready for change.</b><br>
                                 At Emerald Wealth Services, we help agents move past setbacks and finally thrive. We’re
                                 more than an agency we’re a movement built on proven mentorship, innovative strategies,
@@ -108,9 +108,9 @@
                                 <img src="https://imagetest.devixx.pro/images/fasdfasfasdf.png" alt=""
                                     style="width: 34%;margin-right: 15px;object-fit: contain;">
                                 <span style="width: 61%;">
-                                    <h3 style="font-family: 'Staatliches', sans-serif;">THE REALITY</h3>
+                                    <h3 style="font-family:'Staatliches',sans-serif;font-size: 22px;font-weight: 600;">THE REALITY</h3>
                                     <hr>
-                                    <p>
+                                    <p style=" font-size: 16px;">
                                         Over <b>1 million</b> agents are licensed in the U.S., yet only 8% are active
                                         and thriving. <b> The difference?</b> The right mentorship, proven systems, and
                                         a clear roadmap.
@@ -140,12 +140,12 @@
                             <span style="display: flex;align-items: center;">
                                 <h3
                                     style='text-align: left;font-family: "Staatliches", sans-serif;font-size: 35px;line-height: 1.2;position: relative;'>
-                                    <span style="color: #0a9447;">100M+</span> Americans lack adequate life insurance
+                                    <span style="color: #0a9447;">100M+</span> Americans lack<br> adequate life <span style="background: #0a9447;">insurance</span><br>
                                     coverage. <br>
                                     <hr
                                         style="text-align: left; border-bottom: 1px solid #000;display: block;height: 1px;width: 100px;background: #000;margin: 0;margin-top: 10px;">
                                 </h3>
-                                <img src="https://imagetest.devixx.pro/images/asdfsfsdfasd.png" alt="">
+                                <img src="https://imagetest.devixx.pro/images/asdfsfsdfasd.png" alt="" style="margin: auto;width: 100px;height: 100px;">
                             </span>
                         </td>
                     </tr>
@@ -154,13 +154,13 @@
                         <td style="background: #d3fade;">
                             <h2
                                 style='font-size: 39px;font-weight: bold;margin-bottom: 20px;font-family: "Staatliches", sans-serif;text-align: left;padding: 0 20px;'>
-                                WHY <span>EMERALD</span> AGENTS THRIVE
+                                WHY <span style="color: #0a9447;">EMERALD</span> AGENTS THRIVE
                             </h2>
 
                             <tr style="text-align: center; padding:30px 29px 20px 20px !important;display: flex;margin: 0 auto; background: #d3fade; padding-bottom: 31px !important;gap: 10px;">
                                 <td
                                     style=" margin:0 5px;  background: #B9FFD5;border: 2px solid #111613;padding: 20px;flex: 1 1 calc(50% - 20px);position: relative;">
-                                    <span style="">
+                                    <span style="display:flex;">
                                         <p
                                             style='background: #d7c9f5;display: inline-block;padding: 5px 8px;font-size: 20px;margin-bottom: 15px;text-transform: uppercase;font-family: "Staatliches", sans-serif;width: 50%;margin-top: 0;font-weight: 600;line-height: 1;margin-left: 0;display: block;text-align: left;'>
                                             SIX-FIGURE INCOME
@@ -169,7 +169,7 @@
                                            style="width:68px;height:68px;object-fit:contain;margin-left: auto !important;float: right;margin-top: -80px;">
                                     </span>
 
-                                    <p style="font-size: 15px;line-height: 1.6;font-weight: 500;text-align: left;">Your
+                                    <p style="font-size: 16px;line-height: 1.6;font-weight: 500;text-align: left;">Your
                                         <b>income</b> tied to effort, not salary. <b>Six figures</b> built through discipline,
                                         mentorship, and the right agency support.
                                     </p>
@@ -179,7 +179,7 @@
 
                                 <td 
                                     style="margin:0 5px; background: #B9FFD5;border: 2px solid #111613;padding: 20px;flex: 1 1 calc(50% - 20px);position: relative;">
-                                    <span>
+                                    <span style="display:flex;">
                                         <p
                                             style='background: #d7c9f5;display: inline-block;padding: 5px 8px;font-size: 20px;margin-bottom: 15px;text-transform: uppercase;font-family: "Staatliches", sans-serif;width: 50%;margin-top: 0;font-weight: 600;line-height: 1;margin-left: 0;display: block;text-align: left;'>
                                             BECOME A WEALTH PROTECTOR</p>
@@ -187,7 +187,7 @@
                                             style="width:68px;height:68px;object-fit:contain;margin-left: auto !important;float: right;margin-top: -80px;">
                                     </span>
 
-                                    <p style="font-size: 15px;line-height: 1.6;font-weight: 500;text-align: left;"><b>Life
+                                    <p style="font-size: 16px;line-height: 1.6;font-weight: 500;text-align: left;"><b>Life
                                             insurance</b> is the greatest <b>wealth</b> transfer asset. Every policy protects
                                         <b>families</b> and preserves legacies. Recession Proof Career
                                     </p>
@@ -201,7 +201,7 @@
                                         <p
                                             style='background: #d7c9f5;display: inline-block;padding: 5px 8px;font-size: 20px;margin-bottom: 15px;text-transform: uppercase;font-family: "Staatliches", sans-serif;width: 30%;margin-top: 0;font-weight: 600;line-height: 1;margin-left: 0;display: block;text-align: left;'>
                                             RECESSION PROOF CAREER </p>
-                                        <p style="font-size: 15px;line-height: 1.6;font-weight: 500;text-align: left;">The
+                                        <p style="font-size: 16px;line-height: 1.6;font-weight: 500;text-align: left;">The
                                             insurance industry remains strong in any economy because <b>families</b> always need
                                             protection. Unlike other fields that collapse in downturns, life insurance is
                                             essential not optional. This gives you a <b>stable career</b> path with lasting
@@ -219,9 +219,9 @@
                         <td
                             style="padding: 20px; width: 68%; background: #B9FFD5 !important;display: block;margin: 0 auto;margin-top: 30px;box-shadow: 10px 10px 0px #053e05;border: 1px solid #053e05;margin-bottom: 30px;">
                             <h2
-                                style="text-align: center; font-size: 41px; margin: 0; font-family: 'Staatliches', sans-serif;">
+                                style="text-align:center;font-size: 34px;margin:0;font-family:'Staatliches',sans-serif;text-transform: uppercase;line-height: 1;font-weight: 700;">
                                 Here Is the Glimpse Into <br>
-                                <b>Emerald’s </b> Private Training
+                                <b style="color: #006838;">Emerald’s </b> Private Training
                             </h2>
                         </td>
 
@@ -236,22 +236,22 @@
                                 PROTECTING YOUR <span style="color: #0a9447;margin-left:5px;">HUMAN CAPITAL</span>
                                 <hr style="width: 162px;margin-bottom: 0;    background: #0a9447;">
                             </h3>
-                            <p>Human capital is the present value of your future earnings.</p>
+                            <p style="font-size: 16px;">Human capital is the present value of your future earnings.</p>
 
                             <p
                                 style='background: #83E2C4;padding: 15px;margin: 15px 0;font-size: 15px;line-height: 1.6;position: relative;font-family: "Chivo Mono", monospace;font-weight: 500;display: flex;align-items: center;justify-content: space-between;box-shadow: 5px 5px 0px #053e05;'>
                                 <span>
                                     <b> Example:</b> <br>
-                                    If your annual income is $100,000, multiply that by 20.
+                                    If your annual income is $100,000, multiply that by 20. <br>
                                     $100,000 × 20 = <b style="background: #e2ceee;color: #7d12b9;">$2,000,000</b> —
                                     this is the
                                     “need” amount.
 
                                 </span>
 
-                                <img src="https://imagetest.devixx.pro/images/asdasdasd.png" alt="">
+                                <img src="https://imagetest.devixx.pro/images/asdasdasd.png" alt="" style="margin-left: auto;">
                             </p>
-                            <p>At a 5% payout rate, $2,000,000 will generate $100,000 annually, fully replacing your
+                            <p style="font-size: 16px; font-weight: 500;">At a 5% payout rate, $2,000,000 will generate $100,000 annually, fully replacing your
                                 income and
                                 maintaining your family’s standard of living.</p>
                         </td>
@@ -263,19 +263,19 @@
                         <td style="max-width: 93%;margin: 0 auto;border: 2px solid #006838;border-radius: 0 64px 0px 0;padding: 20px;background: #fff;position: relative;overflow: hidden;box-shadow: 10px 10px 0px #053e05;margin-top: 30px !important;display: block;">
                             <h3
                                 style='font-size: 28px;font-weight: bold;margin-bottom: 15px;display: inline-block;padding-bottom: 3px;font-family: "Staatliches", sans-serif;position: relative;display: flex;align-items: end;line-height: 0.7;gap: 5px;'>
-                                CLOSE WITH <span style="color: #0a9447;">THREE QUESTIONS</span>
-                                <hr style="width: 162px;margin-bottom: 0;">
+                                CLOSE WITH <span style="color: #0a9447;margin-left:5px;">THREE QUESTIONS</span>
+                                <hr style="width:162px;margin-bottom:0;background: #0a9447;">
                             </h3>
 
                             <div
                                 style="margin-bottom: 25px;display: block;padding: 31px 0;background: #e9f0ff;border-radius: 5px;">
                                 <span
-                                    style="justify-content: center; float: left;margin-left: 10px; background: #1F283D;color: #fff;font-weight: bold;width: 36px;height: 36px;display: flex;align-items: center;justify-content: center;border-radius: 0px;margin-right: 12px;font-size: 22px;position: relative;">
+                                    style=" text-align:center; justify-content: center; float: left;margin-left: 10px; background: #1F283D;color: #fff;font-weight: bold;width: 36px;height: 36px;display: block;align-items: center;justify-content: center;border-radius: 0px;margin-right: 12px;font-size: 22px;position: relative;">
                                     1
                                 </span>
                                 <hr
                                     style="margin-top: 5px !important; margin: 0;width: 1px;height: 20px;background: #000;float: left;margin-right: 10px;">
-                                <span style="padding-top: 0px !important;display: block;">
+                                <span style="padding-top:0px!important;display:block;font-size: 16px;">
                                     If you don’t come home tomorrow what would happen to your family?
                                 </span>
 
@@ -285,12 +285,12 @@
                             <div
                                 style="margin-bottom: 25px;display: block;padding: 31px 0;background: #e9f0ff;border-radius: 5px;">
                                 <span
-                                    style=" justify-content: center; float: left;margin-left: 10px; background: #1F283D;color: #fff;font-weight: bold;width: 36px;height: 36px;display: flex;align-items: center;justify-content: center;border-radius: 0px;margin-right: 12px;font-size: 22px;position: relative;">
+                                    style="text-align:center;  justify-content: center; float: left;margin-left: 10px; background: #1F283D;color: #fff;font-weight: bold;width: 36px;height: 36px;display: block;align-items: center;justify-content: center;border-radius: 0px;margin-right: 12px;font-size: 22px;position: relative;">
                                     2
                                 </span>
                                 <hr
                                     style="margin-top: 5px !important; margin: 0;width: 1px;height: 20px;background: #000;float: left;margin-right: 10px;">
-                                <span style="padding-top: 0px !important;display: block;">
+                                <span style="padding-top:0px!important;display:block;font-size: 16px;">
                                     How does that make you feel?
                                 </span>
 
@@ -301,12 +301,12 @@
                             <div
                                 style="margin-bottom: 25px;display: block;padding: 31px 0;background: #e9f0ff;border-radius: 5px;">
                                 <span
-                                    style="justify-content: center; float: left;margin-left: 10px; background: #1F283D;color: #fff;font-weight: bold;width: 36px;height: 36px;display: flex;align-items: center;justify-content: center;border-radius: 0px;margin-right: 12px;font-size: 22px;position: relative;">
+                                    style=" text-align:center;  justify-content: center; float: left;margin-left: 10px; background: #1F283D;color: #fff;font-weight: bold;width: 36px;height: 36px;display: block;align-items: center;justify-content: center;border-radius: 0px;margin-right: 12px;font-size: 22px;position: relative;">
                                     3
                                 </span>
                                 <hr
                                     style="margin-top: 5px !important; margin: 0;width: 1px;height: 20px;background: #000;float: left;margin-right: 10px;">
-                                <span style="padding-top: 0px !important;display: block;">
+                                <span style="padding-top:0px!important;display:block;font-size: 16px;">
                                     How much money can you comfortably set aside on a monthly basis to solve this
                                     problem?
                                 </span>
@@ -416,7 +416,7 @@
                         <td
                             style="display: flex; align-items: center;background: #d6c7f5;padding: 25px;border: 2px solid #000;box-shadow: 6px 6px 0px #000;margin: 0 auto;max-width: 83%;">
                             <div style="width: 70%;margin-right: 10px;">
-                                <h2>TESTIMONIAL</h2>
+                                <h2 style=" font-size: 38px; margin-bottom: 10px;">TESTIMONIAL</h2>
                                 <p> “I went from no sales experience to <b>six figures</b> in 1st year. <b>Kizzy’s</b>
                                     daily
                                     consistency and the weekly training sessions completely transformed my approach. I’m
@@ -472,17 +472,17 @@
 
                             <div style="display: flex;align-items: center;">
                                 <img src="https://imagetest.devixx.pro/images/sdjflkjsdlf.png" alt=""
-                                    style="width: 36%;margin: 20px auto;max-width: 100%;border: 0px solid #000;padding: 0px;border-radius: 0px;box-shadow: 5px 5px 0px #000;">
+                                    style="margin-top:0; width: 30%;margin: 20px auto;max-width: 100%;border: 0px solid #000;padding: 0px;border-radius: 0px;box-shadow: 5px 5px 0px #000;">
                                 <div>
-                                    <button
-                                        style='background: #D3FADE;color: #000;border: 2px solid #000;box-shadow: 2px 2px 0px #000;font-family: "AR One Sans", sans-serif;width: 81%;display: inline-block;padding: 12px 22px;margin: 10px;font-size: 14px;font-weight: bold;border: 2px solid #000;border-radius: 4px;cursor: pointer;transition: 0.3s;'>
+                                    <a href="#"
+                                        style='text-decoration:none; background: #D3FADE;color: #000;border: 2px solid #000;box-shadow: 2px 2px 0px #000;font-family: "AR One Sans", sans-serif;width: 81%;display: inline-block;padding: 12px 22px;margin: 10px;font-size: 14px;font-weight: bold;border: 2px solid #000;border-radius: 4px;cursor: pointer;transition: 0.3s;'>
                                         APPLY TO JOIN EMERALD NOW
-                                    </button>
+</a>
 
-                                    <button
-                                        style='background: #fff;color: #000;border: 2px solid #000;box-shadow: 2px 2px 0px #000;font-family: "AR One Sans", sans-serif;width: 81%;margin: 10px auto;display: inline-block;padding: 12px 22px;margin: 10px;font-size: 14px;font-weight: bold;border: 2px solid #000;border-radius: 4px;cursor: pointer;transition: 0.3s;'>
+                                    <a href="#"
+                                        style='text-decoration:none; background: #fff;color: #000;border: 2px solid #000;box-shadow: 2px 2px 0px #000;font-family: "AR One Sans", sans-serif;width: 81%;margin: 10px auto;display: inline-block;padding: 12px 22px;margin: 10px;font-size: 14px;font-weight: bold;border: 2px solid #000;border-radius: 4px;cursor: pointer;transition: 0.3s;'>
                                         START YOUR APPLICATION
-                                    </button>
+</a>
                                     <p
                                         style="margin-top: 0px;padding: 10px;background: #dcdaf5;display: inline-block;border-radius: 5px;font-size: 14px;color: #333;margin-top: 35px;">
                                         The families who need you can’t afford to wait.
@@ -495,37 +495,37 @@
 
 
                     <tr>
-                        <td style="background: #B9FFD5;padding: 35px 36px;position: relative;z-index: 2;">
+                        <td style="background:#b9ffd5;padding:35px 36px;position: relative;z-index: 1;background-position: 77% 81%;background-image: url(https://imagetest.devixx.pro/images/kahskdjf.png);background-repeat: no-repeat;">
                             <h2 style='font-size: 33px;font-family: "Tinos", serif;margin: 0;'>
                                 Ready To Transform Your <span style="color: #1e9a66;"> Career?</span>
                             </h2>
                             <ul
                                 style="list-style: none;padding: 0;padding-bottom: 38px;border-bottom: 2px solid #000;width: fit-content;">
                                 <li
-                                    style="margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;margin-left:0;">
+                                    style="margin-right: 5px; margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;margin-left:0;">
                                     <span
                                         style="width: 30px;height: 30px;background: #fff;display: flex;justify-content: center;align-items: center;box-shadow: 3px 3px 0px #006838;"><img
                                             src="https://imagetest.devixx.pro/images/aasdfasdf.png"
-                                            alt=""></span>
-                                    <b> Website:</b>
-                                    www.emeraldwealthservices.com
+                                            alt="" style="width: 13px; height: 13px; margin: auto;"></span>
+                                    <b style="padding-left: 5px; padding-right: 5px;"> Website:</b>
+                                   <a href="www.emeraldwealthservices.com" style=" color: #000; text-decoration: none;"> www.emeraldwealthservices.com</a>
                                 </li>
                                 <li
-                                    style="margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;margin-left:0;">
+                                    style="margin-right: 5px; margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;margin-left:0;">
                                     <span
                                         style="width: 30px;height: 30px;background: #fff;display: flex;justify-content: center;align-items: center;box-shadow: 3px 3px 0px #006838;"><img
                                             src="https://imagetest.devixx.pro/images/afasdfsd.png"
-                                            alt=""></span>
-                                    <b>Email:</b>
-                                    info@emeraldwealthservices.com
+                                            alt="" style="width: 13px; height: 13px; margin: auto;"></span>
+                                    <b style="padding-left: 5px; padding-right: 5px;">Email:</b>
+                                    <a href="mailto:info@emeraldwealthservices.com" style=" color: #000; text-decoration: none;">info@emeraldwealthservices.com</a>
                                 </li>
                                 <li
-                                    style="margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;margin-left:0;">
+                                    style="margin-right: 5px; margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;margin-left:0;">
                                     <span
                                         style="width: 30px;height: 30px;background: #fff;display: flex;justify-content: center;align-items: center;box-shadow: 3px 3px 0px #006838;"><img
                                             src="https://imagetest.devixx.pro/images/asdjasldjas.png"
-                                            alt=""></span>
-                                    <b>Phone:</b>
+                                            alt="" style="width: 13px; height: 13px; margin: auto;"></span>
+                                    <b style="padding-left: 5px; padding-right: 5px;">Phone:</b>
                                     +1 (800) 515-6707
                                 </li>
                             </ul>
@@ -561,7 +561,7 @@
                                 this because
                                 you expressed interest in career and income opportunities.</p>
                             <a href="#"
-                               style="margin:0;font-size:18px;color:#fff;font-weight:500;text-decoration:underline;display:flex;padding-bottom:5px!important;justify-content: center;">Unsubscribe
+                              style="margin:0;font-size:18px;color:#fff;font-weight:500;text-decoration:underline;display:flex;padding-bottom:5px!important;text-align: center;width: fit-content;margin: 0 auto;">Unsubscribe
                                 <span style="margin: 0 5px;">|</span> Update Preferences</a>
                         </td>
                     </tr>
