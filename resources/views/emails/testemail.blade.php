@@ -145,7 +145,7 @@
                                     <hr
                                         style="text-align: left; border-bottom: 1px solid #000;display: block;height: 1px;width: 100px;background: #000;margin: 0;margin-top: 10px;">
                                 </h3>
-                                <img src="https://imagetest.devixx.pro/images/asdfsfsdfasd.png" alt="" style="margin: auto;width: 100px;height: 100px;">
+                                <img src="https://imagetest.devixx.pro/images/asdfsfsdfasd.png" alt="" style="    margin-top: -10px; margin: auto;width: 200px;height: 200px;">
                             </span>
                         </td>
                     </tr>
