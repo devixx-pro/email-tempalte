@@ -474,15 +474,15 @@
                                 <img src="{{asset('images/image193.webp')}}" alt=""
                                     style="margin-top:0; width: 30%;margin: 20px auto;max-width: 100%;border: 0px solid #000;padding: 0px;border-radius: 0px;box-shadow: 5px 5px 0px #000;">
                                 <div>
-                                    <a href="#"
+                                    <a href="https://emeraldwealthservices.com/agents/" target="blank"
                                         style='text-decoration:none; background: #D3FADE;color: #000;border: 2px solid #000;box-shadow: 2px 2px 0px #000;font-family: "AR One Sans", sans-serif;width: 81%;display: inline-block;padding: 12px 22px;margin: 10px;font-size: 14px;font-weight: bold;border: 2px solid #000;border-radius: 4px;cursor: pointer;transition: 0.3s;'>
                                         APPLY TO JOIN EMERALD NOW
-</a>
+                                    </a>
 
-                                    <a href="#"
+                                    <a href="https://emeraldwealthservices.com/agents/" target="blank"
                                         style='text-decoration:none; background: #fff;color: #000;border: 2px solid #000;box-shadow: 2px 2px 0px #000;font-family: "AR One Sans", sans-serif;width: 81%;margin: 10px auto;display: inline-block;padding: 12px 22px;margin: 10px;font-size: 14px;font-weight: bold;border: 2px solid #000;border-radius: 4px;cursor: pointer;transition: 0.3s;'>
                                         START YOUR APPLICATION
-</a>
+                                    </a>
                                     <p
                                         style="margin-top: 0px;padding: 10px;background: #dcdaf5;display: inline-block;border-radius: 5px;font-size: 14px;color: #333;margin-top: 35px;">
                                         The families who need you can’t afford to wait.
@@ -537,14 +537,26 @@
                                         style='margin-top: 0; font-size: 33px;font-family: "Tinos", serif;padding: 10px 0;padding-bottom: 10px;margin-bottom: 0;padding-bottom: 0;'>
                                         Stay <span style="color: #1e9a66;">Connected</span></h3>
                                     <ul style="display: flex;list-style: none;padding: 0;gap: 10px;margin-top: 10px;">
-                                        <li><img src="{{asset('images/facebook.png')}}" alt="facebook">
+                                        <li>
+                                            <a href="https://www.facebook.com/profile.php?id=61579026572942" target="_blank">
+                                                <img src="{{asset('images/facebook.png')}}" alt="facebook">
+                                            </a>
                                         </li>
-                                        <li><img src="{{asset('images/youtube.png')}}"
-                                                alt="youtube"></li>
-                                        <li><img src="{{asset('images/instagram.png')}}"
-                                                alt="instagram"></li>
-                                        <li><img src="{{asset('images/twitter.png')}}"
-                                                alt="twitter"></li>
+                                        <li>
+                                            <a href="https://www.youtube.com/@EmeraldWealthServices" target="_blank">
+                                                <img src="{{asset('images/youtube.png')}}" alt="youtube">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/emeraldwealthservices" target="_blank">
+                                                <img src="{{asset('images/instagram.png')}}" alt="instagram">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.linkedin.com/company/emeraldwealthservices" target="_blank">
+                                                <img src="{{asset('images/twitter.png')}}" alt="linkedin">
+                                            </a>
+                                        </li>
                                     </ul>
 
                                 </li>

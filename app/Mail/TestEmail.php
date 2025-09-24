@@ -12,7 +12,7 @@ class TestEmail extends Mailable
 
     public function build()
     {
-        return $this->subject('Laravel Test Email')
+        return $this->subject('Emerald Wealth Services')
                     ->view('emails.testemail');
     }
 }
