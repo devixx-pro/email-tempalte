@@ -345,7 +345,7 @@
                                         </p>
                                     </div>
 
-                                    <img src="{{asset('images/kizzy.jpg')}}" alt=""
+                                    <img src="{{asset('images/Kizzy.jpg')}}" alt=""
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
