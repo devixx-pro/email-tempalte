@@ -537,27 +537,16 @@
                                         style='margin-top: 0; font-size: 33px;font-family: "Tinos", serif;padding: 10px 0;padding-bottom: 10px;margin-bottom: 0;padding-bottom: 0;'>
                                         Stay <span style="color: #1e9a66;">Connected</span></h3>
                                     <ul style="display: flex;list-style: none;padding: 0;gap: 10px;margin-top: 10px;">
-                                        <li>
-                                            <a href="https://www.facebook.com/profile.php?id=61579026572942" target="_blank">
-                                                <img src="{{asset('images/facebook.png')}}" alt="facebook">
-                                            </a>
+                                        <li><img src="{{asset('images/facebook.png')}}" alt="facebook">
                                         </li>
-                                        <li>
-                                            <a href="https://www.youtube.com/@EmeraldWealthServices" target="_blank">
-                                                <img src="{{asset('images/youtube.png')}}" alt="youtube">
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.instagram.com/emeraldwealthservices" target="_blank">
-                                                <img src="{{asset('images/instagram.png')}}" alt="instagram">
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.linkedin.com/company/emeraldwealthservices" target="_blank">
-                                                <img src="{{asset('images/twitter.png')}}" alt="linkedin">
-                                            </a>
-                                        </li>
+                                        <li><img src="{{asset('images/youtube.png')}}"
+                                                alt="youtube"></li>
+                                        <li><img src="{{asset('images/instagram.png')}}"
+                                                alt="instagram"></li>
+                                        <li><img src="{{asset('images/twitter.png')}}"
+                                                alt="twitter"></li>
                                     </ul>
+
                                 </li>
                                 <li style="width: fit-content;display: block;margin-left: auto;">
                                     <img src="https://imagetest.devixx.pro/images/emrald-logo.jpeg" alt=""
