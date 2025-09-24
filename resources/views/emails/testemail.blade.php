@@ -82,7 +82,7 @@
 
                         <td
                             style="background: #fff; padding: 20px; max-width: 100%;display: block; box-shadow: 10px 10px 0px #053e05;">
-                            <img src="{{asset('images/group.jpg')}}" alt="" style="width: 100%;">
+                            <img src="{{asset('images/group.webp')}}" alt="" style="width: 100%;">
                             <p style="text-align: left;    font-size: 16px;">
                                 <b> I hope this message finds you ready for change.</b><br>
                                 At Emerald Wealth Services, we help agents move past setbacks and finally thrive. We’re
@@ -105,7 +105,7 @@
                                 <br> ( AND HOW YOU CAN <span style="color: #0a9447;">SUCCEED</span> )
                             </h2>
                             <div style="display: flex;">
-                                <img src="{{asset('images/agentsfail.png')}}" alt=""
+                                <img src="{{asset('images/agentsfail.webp')}}" alt=""
                                     style="width: 34%;margin-right: 15px;object-fit: contain;">
                                 <span style="width: 61%;">
                                     <h3 style="font-family:'Staatliches',sans-serif;font-size: 22px;font-weight: 600;">THE REALITY</h3>
@@ -345,7 +345,7 @@
                                         </p>
                                     </div>
 
-                                    <img src="{{asset('images/Kizzy.jpg')}}" alt=""
+                                    <img src="{{asset('images/Kizzy.webp')}}" alt=""
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
@@ -363,7 +363,7 @@
                                             training.</p>
                                     </div>
 
-                                    <img src="{{asset('images/mahad.jpg')}}" alt="Mahad Mohamed"
+                                    <img src="{{asset('images/mahad.webp')}}" alt="Mahad Mohamed"
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
@@ -383,7 +383,7 @@
                                         </p>
                                     </div>
 
-                                    <img src="{{asset('images/cody.png')}}" alt="Cody Askins "
+                                    <img src="{{asset('images/cody.webp')}}" alt="Cody Askins "
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
@@ -402,7 +402,7 @@
                                             strategies.</p>
                                     </div>
 
-                                    <img src="{{asset('images/sanjay.png')}}" alt=""
+                                    <img src="{{asset('images/sanjay.webp')}}" alt=""
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
@@ -426,7 +426,7 @@
                                 </p>
                             </div>
                             <img style="width: 160px;height: auto;border: 2px solid #000;box-shadow: 6px 6px 0px #000;"
-                                src="{{asset('images/emily.png')}}" alt="emily">
+                                src="{{asset('images/emily.webp')}}" alt="emily">
                         </td>
                     </tr>
 
@@ -471,7 +471,7 @@
                                 Your success isn’t a question of IF — it’s a question of WHEN</p>
 
                             <div style="display: flex;align-items: center;">
-                                <img src="{{asset('images/image193.png')}}" alt=""
+                                <img src="{{asset('images/image193.webp')}}" alt=""
                                     style="margin-top:0; width: 30%;margin: 20px auto;max-width: 100%;border: 0px solid #000;padding: 0px;border-radius: 0px;box-shadow: 5px 5px 0px #000;">
                                 <div>
                                     <a href="#"
@@ -508,7 +508,7 @@
                                             src="{{asset('images/website.png')}}"
                                             alt="" style="width: 13px; height: 13px; margin: auto;"></span>
                                     <b style="padding-left: 5px; padding-right: 5px;"> Website:</b>
-                                   <a href="www.emeraldwealthservices.com" style=" color: #000; text-decoration: none;"> www.emeraldwealthservices.com</a>
+                                   <a href="https://emeraldwealthservices.com" target="blank" style=" color: #000; text-decoration: none;"> www.emeraldwealthservices.com</a>
                                 </li>
                                 <li
                                     style="margin-right: 5px; margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;margin-left:0;">
@@ -526,7 +526,7 @@
                                             src="{{asset('images/phone.png')}}"
                                             alt="" style="width: 13px; height: 13px; margin: auto;"></span>
                                     <b style="padding-left: 5px; padding-right: 5px;">Phone:</b>
-                                    +1 (800) 515-6707
+                                    +1 (800)515-6707
                                 </li>
                             </ul>
 
