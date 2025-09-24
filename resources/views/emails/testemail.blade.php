@@ -114,7 +114,7 @@
                                         Over <b>1 million</b> agents are licensed in the U.S., yet only 8% are active
                                         and thriving. <b> The difference?</b> The right mentorship, proven systems, and
                                         a clear roadmap.
-
+<br>
                                         At <b style="color: #31cf66;">Emerald Wealth Services</b>, we provide exactly
                                         that support, tools, and guidance from leaders who’ve built six-figure
                                         businesses. We don’t just aim to be the 8% - we are the 8%, and with us, you can
