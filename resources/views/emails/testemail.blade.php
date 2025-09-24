@@ -82,7 +82,7 @@
 
                         <td
                             style="background: #fff; padding: 20px; max-width: 100%;display: block; box-shadow: 10px 10px 0px #053e05;">
-                            <img src="https://imagetest.devixx.pro/images/hope.png" alt="" style="width: 100%;">
+                            <img src="image/PNG/group photo for email_02 2.png" alt="" style="width: 100%;">
                             <p style="text-align: left;    font-size: 16px;">
                                 <b> I hope this message finds you ready for change.</b><br>
                                 At Emerald Wealth Services, we help agents move past setbacks and finally thrive. We’re
@@ -105,7 +105,7 @@
                                 <br> ( AND HOW YOU CAN <span style="color: #0a9447;">SUCCEED</span> )
                             </h2>
                             <div style="display: flex;">
-                                <img src="https://imagetest.devixx.pro/images/fasdfasfasdf.png" alt=""
+                                <img src="image/PNG/Gemini_Generated_Image_3osr3l3osr3l3osr 2.png" alt=""
                                     style="width: 34%;margin-right: 15px;object-fit: contain;">
                                 <span style="width: 61%;">
                                     <h3 style="font-family:'Staatliches',sans-serif;font-size: 22px;font-weight: 600;">THE REALITY</h3>
@@ -345,7 +345,7 @@
                                         </p>
                                     </div>
 
-                                    <img src="https://imagetest.devixx.pro/images/kizzy.png" alt=""
+                                    <img src="image/PNG/WhatsApp Image 2025-09-03 at 12.09.53_7f19d2b3 8.png" alt=""
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
@@ -363,7 +363,7 @@
                                             training.</p>
                                     </div>
 
-                                    <img src="https://imagetest.devixx.pro/images/mahad.png" alt=""
+                                    <img src="image/PNG/IMG-20250818-WA0020 2.png" alt=""
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
@@ -383,7 +383,7 @@
                                         </p>
                                     </div>
 
-                                    <img src="https://imagetest.devixx.pro/images/kody.png" alt=""
+                                    <img src="image/PNG/WhatsApp Image 2025-08-13 at 23.40.44_a1fe84cb 2.png" alt=""
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
@@ -402,7 +402,7 @@
                                             strategies.</p>
                                     </div>
 
-                                    <img src="https://imagetest.devixx.pro/images/sanajy.png" alt=""
+                                    <img src="image/PNG/1687688236714 2.png" alt=""
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
@@ -426,7 +426,7 @@
                                 </p>
                             </div>
                             <img style="width: 160px;height: auto;border: 2px solid #000;box-shadow: 6px 6px 0px #000;"
-                                src="https://imagetest.devixx.pro/images/asdkfhasdkfh.png" alt="">
+                                src="image/PNG/image 192.png" alt="">
                         </td>
                     </tr>
 
@@ -471,7 +471,7 @@
                                 Your success isn’t a question of IF — it’s a question of WHEN</p>
 
                             <div style="display: flex;align-items: center;">
-                                <img src="https://imagetest.devixx.pro/images/sdjflkjsdlf.png" alt=""
+                                <img src="image/PNG/image 193.png" alt=""
                                     style="margin-top:0; width: 30%;margin: 20px auto;max-width: 100%;border: 0px solid #000;padding: 0px;border-radius: 0px;box-shadow: 5px 5px 0px #000;">
                                 <div>
                                     <a href="#"
