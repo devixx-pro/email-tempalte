@@ -82,7 +82,7 @@
 
                         <td
                             style="background: #fff; padding: 20px; max-width: 100%;display: block; box-shadow: 10px 10px 0px #053e05;">
-                            <img src="image/PNG/group photo for email_02 2.png" alt="" style="width: 100%;">
+                            <img src="{{asset('images/group.png')}}" alt="" style="width: 100%;">
                             <p style="text-align: left;    font-size: 16px;">
                                 <b> I hope this message finds you ready for change.</b><br>
                                 At Emerald Wealth Services, we help agents move past setbacks and finally thrive. We’re
@@ -105,7 +105,7 @@
                                 <br> ( AND HOW YOU CAN <span style="color: #0a9447;">SUCCEED</span> )
                             </h2>
                             <div style="display: flex;">
-                                <img src="image/PNG/Gemini_Generated_Image_3osr3l3osr3l3osr 2.png" alt=""
+                                <img src="{{asset('images/agentsfail.png')}}" alt=""
                                     style="width: 34%;margin-right: 15px;object-fit: contain;">
                                 <span style="width: 61%;">
                                     <h3 style="font-family:'Staatliches',sans-serif;font-size: 22px;font-weight: 600;">THE REALITY</h3>
@@ -345,7 +345,7 @@
                                         </p>
                                     </div>
 
-                                    <img src="image/PNG/WhatsApp Image 2025-09-03 at 12.09.53_7f19d2b3 8.png" alt=""
+                                    <img src="{{asset('images/kizzy.png')}}" alt=""
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
@@ -363,7 +363,7 @@
                                             training.</p>
                                     </div>
 
-                                    <img src="image/PNG/IMG-20250818-WA0020 2.png" alt=""
+                                    <img src="{{asset('images/mahad.png')}}" alt="Mahad Mohamed"
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
@@ -383,7 +383,7 @@
                                         </p>
                                     </div>
 
-                                    <img src="image/PNG/WhatsApp Image 2025-08-13 at 23.40.44_a1fe84cb 2.png" alt=""
+                                    <img src="{{asset('images/cody.png')}}" alt="Cody Askins "
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
@@ -402,7 +402,7 @@
                                             strategies.</p>
                                     </div>
 
-                                    <img src="image/PNG/1687688236714 2.png" alt=""
+                                    <img src="{{asset('images/sanjay.png')}}" alt=""
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
@@ -426,7 +426,7 @@
                                 </p>
                             </div>
                             <img style="width: 160px;height: auto;border: 2px solid #000;box-shadow: 6px 6px 0px #000;"
-                                src="image/PNG/image 192.png" alt="">
+                                src="{{asset('images/emily.png')}}" alt="emily">
                         </td>
                     </tr>
 
@@ -471,7 +471,7 @@
                                 Your success isn’t a question of IF — it’s a question of WHEN</p>
 
                             <div style="display: flex;align-items: center;">
-                                <img src="image/PNG/image 193.png" alt=""
+                                <img src="{{asset('images/image193.png')}}" alt=""
                                     style="margin-top:0; width: 30%;margin: 20px auto;max-width: 100%;border: 0px solid #000;padding: 0px;border-radius: 0px;box-shadow: 5px 5px 0px #000;">
                                 <div>
                                     <a href="#"
@@ -505,7 +505,7 @@
                                     style="margin-right: 5px; margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;margin-left:0;">
                                     <span
                                         style="width: 30px;height: 30px;background: #fff;display: flex;justify-content: center;align-items: center;box-shadow: 3px 3px 0px #006838;"><img
-                                            src="https://imagetest.devixx.pro/images/aasdfasdf.png"
+                                            src="{{asset('images/website.png')}}"
                                             alt="" style="width: 13px; height: 13px; margin: auto;"></span>
                                     <b style="padding-left: 5px; padding-right: 5px;"> Website:</b>
                                    <a href="www.emeraldwealthservices.com" style=" color: #000; text-decoration: none;"> www.emeraldwealthservices.com</a>
@@ -514,7 +514,7 @@
                                     style="margin-right: 5px; margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;margin-left:0;">
                                     <span
                                         style="width: 30px;height: 30px;background: #fff;display: flex;justify-content: center;align-items: center;box-shadow: 3px 3px 0px #006838;"><img
-                                            src="https://imagetest.devixx.pro/images/afasdfsd.png"
+                                            src="{{asset('images/email.png')}}"
                                             alt="" style="width: 13px; height: 13px; margin: auto;"></span>
                                     <b style="padding-left: 5px; padding-right: 5px;">Email:</b>
                                     <a href="mailto:info@emeraldwealthservices.com" style=" color: #000; text-decoration: none;">info@emeraldwealthservices.com</a>
@@ -523,7 +523,7 @@
                                     style="margin-right: 5px; margin-top: 20px;font-size: 20px;display: flex;gap: 10px;align-items: center;margin-left:0;">
                                     <span
                                         style="width: 30px;height: 30px;background: #fff;display: flex;justify-content: center;align-items: center;box-shadow: 3px 3px 0px #006838;"><img
-                                            src="https://imagetest.devixx.pro/images/asdjasldjas.png"
+                                            src="{{asset('images/phone.png')}}"
                                             alt="" style="width: 13px; height: 13px; margin: auto;"></span>
                                     <b style="padding-left: 5px; padding-right: 5px;">Phone:</b>
                                     +1 (800) 515-6707
@@ -537,14 +537,14 @@
                                         style='margin-top: 0; font-size: 33px;font-family: "Tinos", serif;padding: 10px 0;padding-bottom: 10px;margin-bottom: 0;padding-bottom: 0;'>
                                         Stay <span style="color: #1e9a66;">Connected</span></h3>
                                     <ul style="display: flex;list-style: none;padding: 0;gap: 10px;margin-top: 10px;">
-                                        <li><img src="https://imagetest.devixx.pro/images/dasdask.png" alt="">
+                                        <li><img src="{{asset('images/facebook.png')}}" alt="facebook">
                                         </li>
-                                        <li><img src="https://imagetest.devixx.pro/images/dasdlasjl.png"
-                                                alt=""></li>
-                                        <li><img src="https://imagetest.devixx.pro/images/jfaslfjal.png"
-                                                alt=""></li>
-                                        <li><img src="https://imagetest.devixx.pro/images/asjdlasjd.png"
-                                                alt=""></li>
+                                        <li><img src="{{asset('images/youtube.png')}}"
+                                                alt="youtube"></li>
+                                        <li><img src="{{asset('images/instagram.png')}}"
+                                                alt="instagram"></li>
+                                        <li><img src="{{asset('images/twitter.png')}}"
+                                                alt="twitter"></li>
                                     </ul>
                                 </li>
                                 <li style="width: fit-content;display: block;margin-left: auto;">
