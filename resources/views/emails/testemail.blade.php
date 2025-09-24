@@ -82,7 +82,7 @@
 
                         <td
                             style="background: #fff; padding: 20px; max-width: 100%;display: block; box-shadow: 10px 10px 0px #053e05;">
-                            <img src="{{asset('images/group.png')}}" alt="" style="width: 100%;">
+                            <img src="{{asset('images/group.jpg')}}" alt="" style="width: 100%;">
                             <p style="text-align: left;    font-size: 16px;">
                                 <b> I hope this message finds you ready for change.</b><br>
                                 At Emerald Wealth Services, we help agents move past setbacks and finally thrive. We’re
@@ -345,7 +345,7 @@
                                         </p>
                                     </div>
 
-                                    <img src="{{asset('images/kizzy.png')}}" alt=""
+                                    <img src="{{asset('images/kizzy.jpg')}}" alt=""
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
@@ -363,7 +363,7 @@
                                             training.</p>
                                     </div>
 
-                                    <img src="{{asset('images/mahad.png')}}" alt="Mahad Mohamed"
+                                    <img src="{{asset('images/mahad.jpg')}}" alt="Mahad Mohamed"
                                         style="width: 33%;border-radius: 4px;box-shadow: 6px 6px 0px #053e05;">
                                 </div>
 
